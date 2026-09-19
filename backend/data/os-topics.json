@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "OS Basics", "order": 1, "text": "An operating system manages hardware and lets programs run. It handles memory, files, devices, and CPU access." },
+  { "id": 2, "name": "Processes", "order": 2, "text": "A process is a program in execution. It moves through states: new, ready, running, waiting, terminated." },
+  { "id": 3, "name": "Threads", "order": 3, "text": "A thread is the smallest unit of execution inside a process. Multiple threads share memory but run independently." },
+  { "id": 4, "name": "CPU Scheduling", "order": 4, "text": "CPU scheduling decides which process runs next. Round Robin gives each process a fixed time slice before switching." },
+  { "id": 5, "name": "Deadlocks", "order": 5, "text": "A deadlock happens when processes wait on each other for resources in a circular chain, so none can proceed." }
+]

@@ -16,7 +16,7 @@
     --red: #ff405f;
     --yellow: #ffd166;
 }
-
+/* Base page styling*/
 body {
     font-family: Inter, sans-serif;
     background: var(--bg);
@@ -27,6 +27,7 @@ body {
 button {
     font-family: inherit;
     cursor: pointer;
+    box-sizing: inherit;
 }
 
 .screen {
